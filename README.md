@@ -1,12 +1,12 @@
-# RDKit Introduction: 3D Molecular Visualization Masterclass 🧬✨
+# RDKit Introduction: 3D Molecular Visualization Masterclass
 
 A comprehensive Jupyter notebook showcasing three powerful approaches to molecular visualization using RDKit and py3Dmol.
 
-## 📋 Overview
+## Overview
 
 This notebook demonstrates the fundamentals of RDKit for cheminformatics while focusing on stunning 3D molecular visualizations. Learn how to create publication-quality molecular graphics, compare drug candidates, and explore conformational landscapes.
 
-## 🎯 What You'll Learn
+## What You'll Learn
 
 ### Core RDKit Capabilities:
 - Reading and writing molecular file formats (SMILES, MOL, SDF)
@@ -17,7 +17,7 @@ This notebook demonstrates the fundamentals of RDKit for cheminformatics while f
 
 ### Three Visualization Approaches:
 
-## 🔬 Approach 1: Single Molecule Deep Dive
+## Approach 1: Single Molecule Deep Dive
 **Perfect for detailed structural analysis**
 ```python
 # Features:
@@ -37,7 +37,7 @@ This notebook demonstrates the fundamentals of RDKit for cheminformatics while f
 
 ---
 
-## 🎭 Approach 2: Multi-Molecule Gallery
+## Approach 2: Multi-Molecule Gallery
 **Perfect for comparative analysis**
 ```python
 # Features:
@@ -58,7 +58,7 @@ This notebook demonstrates the fundamentals of RDKit for cheminformatics while f
 
 ---
 
-## ⚡ Approach 3: Conformational Ensemble
+## Approach 3: Conformational Ensemble
 **Perfect for flexibility analysis**
 ```python
 # Features:
@@ -81,7 +81,7 @@ This notebook demonstrates the fundamentals of RDKit for cheminformatics while f
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 ```bash
@@ -93,7 +93,7 @@ pip install rdkit py3Dmol numpy
 jupyter notebook C_rdkit_intro.ipynb
 ```
 
-## 🎯 Which Approach Should You Use?
+## Which Approach Should You Use?
 
 | Your Question | Best Approach |
 |---------------|---------------|
@@ -104,7 +104,7 @@ jupyter notebook C_rdkit_intro.ipynb
 | "Which conformer binds to the protein?" | **Approach 3** |
 | "I need a figure for my presentation" | **Approach 1** |
 
-## 📊 Key Molecular Properties Calculated
+## Key Molecular Properties Calculated
 
 - **Molecular Weight (MW)**
 - **LogP** (lipophilicity)
@@ -116,7 +116,7 @@ jupyter notebook C_rdkit_intro.ipynb
 - **Conformational energy**
 - **Boltzmann populations**
 
-## 💡 Advanced Features
+## Advanced Features
 
 - **Energy minimization** using MMFF force fields
 - **Conformer generation** with RMS pruning
@@ -125,7 +125,7 @@ jupyter notebook C_rdkit_intro.ipynb
 - **Multi-panel synchronized viewing**
 - **Interactive 3D rotation and zoom**
 
-## 🔧 Technical Details
+## Technical Details
 
 ### Visualization Stack:
 - **RDKit**: Cheminformatics and 3D coordinate generation
@@ -139,23 +139,23 @@ jupyter notebook C_rdkit_intro.ipynb
 - Solvent-accessible surfaces
 - Custom color schemes (Jmol, spectrum, element-specific)
 
-## 📚 Resources
+## Resources
 
 - [RDKit Documentation](https://www.rdkit.org/docs/)
 - [py3Dmol Documentation](https://pypi.org/project/py3Dmol/)
 - [Lipinski's Rule of Five](https://en.wikipedia.org/wiki/Lipinski%27s_rule_of_five)
 
-## 🎓 Learning Path
+##  Learning Path
 
 1. **Start with Approach 1**: Master single molecule visualization
 2. **Move to Approach 2**: Compare multiple structures
 3. **Advanced to Approach 3**: Explore conformational space
 
-## 🤝 Contributing
+## Contributing
 
 Feel free to fork, improve, and submit pull requests!
 
-## 📝 License
+##  License
 
 Open source - feel free to use and modify for your research and teaching.
 
